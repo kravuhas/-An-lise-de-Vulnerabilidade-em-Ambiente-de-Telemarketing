@@ -60,8 +60,19 @@ Esse tipo de falha é comum e muitas vezes negligenciado.
 
 ⚖️ Ética
 
+⚖️ Ética
+
 A vulnerabilidade foi:
 
-Identificada de forma passiva
-Não explorada de forma maliciosa
-Reportada corretamente
+Identificada durante atividades normais de trabalho
+Testada de forma controlada e sem causar danos
+Sem acesso indevido a dados além do necessário para validação
+Sem compartilhamento de informações sensíveis
+
+Após a confirmação, foi:
+
+Reportada internamente aos responsáveis
+Tratada seguindo boas práticas de segurança
+Corrigida pela equipe responsável
+
+👉 Todo o processo seguiu princípios de responsabilidade, confidencialidade e boa-fé, com o objetivo exclusivo de melhorar a segurança do ambiente.
