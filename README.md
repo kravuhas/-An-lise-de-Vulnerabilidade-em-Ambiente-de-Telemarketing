@@ -58,7 +58,6 @@ falta de controle do ambiente do usuário (endpoint security)
 
 Esse tipo de falha é comum e muitas vezes negligenciado.
 
-⚖️ Ética
 
 ⚖️ Ética
 
@@ -76,3 +75,4 @@ Tratada seguindo boas práticas de segurança
 Corrigida pela equipe responsável
 
 👉 Todo o processo seguiu princípios de responsabilidade, confidencialidade e boa-fé, com o objetivo exclusivo de melhorar a segurança do ambiente.
+Eu criei um script para analisar o seu pc se ele tem virus ou nao
