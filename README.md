@@ -81,3 +81,5 @@ Eu criei um script para analisar o seu pc se ele tem virus ou nao
 Tipo: Falha de configuração (Misconfiguration)
 Categoria: Endpoint Security
 Severidade: Alta
+
+lembrando esse codigo e para linux
