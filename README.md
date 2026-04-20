@@ -1,4 +1,4 @@
-# -An-lise-de-Vulnerabilidade-em-Ambiente-de-Telemarketing
+# -Analise de Vulnerabilidade em Ambiente de Telemarketing
 achei uma falha numa empresa onde eu trabalho
 
 Durante atuação em ambiente de telemarketing, utilizando sistemas corporativos de atendimento ao cliente (CRM e plataformas internas), foi identificado um possível risco de segurança relacionado ao uso de navegadores.
@@ -76,3 +76,8 @@ Corrigida pela equipe responsável
 
 👉 Todo o processo seguiu princípios de responsabilidade, confidencialidade e boa-fé, com o objetivo exclusivo de melhorar a segurança do ambiente.
 Eu criei um script para analisar o seu pc se ele tem virus ou nao
+
+🏷️ Classificação
+Tipo: Falha de configuração (Misconfiguration)
+Categoria: Endpoint Security
+Severidade: Alta
