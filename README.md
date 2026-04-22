@@ -78,6 +78,9 @@ Corrigida pela equipe responsável
 
 👉 Todo o processo seguiu princípios de responsabilidade, confidencialidade e boa-fé, com o objetivo exclusivo de melhorar a segurança do ambiente.
 Eu criei um script para analisar o seu pc se ele tem virus ou nao
+e um app usando meu conhecimento em segurança da informaçao e usando como suporte a ia claude assim criando um antivirus com uma estetica cyberpunk
+esse script e de codigo aberto, e ele analisa e faz monitoria no seu pc para ver se tem alguma ameaça
+pela imagem o meu tem kkkkkkkkkkkkkk
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34323694-99d6-44c6-92c8-33f3c4d66cfe" />
 
 
@@ -85,5 +88,3 @@ Eu criei um script para analisar o seu pc se ele tem virus ou nao
 Tipo: Falha de configuração (Misconfiguration)
 Categoria: Endpoint Security
 Severidade: Alta
-
-lembrando esse codigo e para linux
