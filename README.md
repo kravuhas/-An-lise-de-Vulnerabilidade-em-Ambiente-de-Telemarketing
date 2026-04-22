@@ -63,6 +63,7 @@ Esse tipo de falha é comum e muitas vezes negligenciado.
 
 A vulnerabilidade foi:
 
+
 Identificada durante atividades normais de trabalho
 Testada de forma controlada e sem causar danos
 Sem acesso indevido a dados além do necessário para validação
@@ -70,12 +71,15 @@ Sem compartilhamento de informações sensíveis
 
 Após a confirmação, foi:
 
+
 Reportada internamente aos responsáveis
 Tratada seguindo boas práticas de segurança
 Corrigida pela equipe responsável
 
 👉 Todo o processo seguiu princípios de responsabilidade, confidencialidade e boa-fé, com o objetivo exclusivo de melhorar a segurança do ambiente.
 Eu criei um script para analisar o seu pc se ele tem virus ou nao
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34323694-99d6-44c6-92c8-33f3c4d66cfe" />
+
 
 🏷️ Classificação
 Tipo: Falha de configuração (Misconfiguration)
