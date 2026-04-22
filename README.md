@@ -1,4 +1,4 @@
-# -Analise de Vulnerabilidade em Ambiente de Telemarketing
+# -SafeGuardX
 achei uma falha numa empresa onde eu trabalho
 
 Durante atuação em ambiente de telemarketing, utilizando sistemas corporativos de atendimento ao cliente (CRM e plataformas internas), foi identificado um possível risco de segurança relacionado ao uso de navegadores.
